@@ -1,6 +1,6 @@
 # numeric.py
 
-__all__ = ['is_integer', 'is_numeric']7
+__all__ = ['is_integer', 'is_numeric']
 
 def is_integer(arg):
     pass
